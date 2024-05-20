@@ -4,7 +4,7 @@
 <h3 align="center"><a href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.demolab.com?font=ARIAL+BOLD&pause=1000&color=F70707&random=false&width=435&lines=FULL+STACK+DEVELOPER;OPEN+SOURCE+CONTRIBUTOR;FREELANCER" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenp255&label=Profile%20views&color=0e75b6&style=flat" alt="praveenp255" /> </p>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right"alt="coding"width="400"src="https://media.licdn.com/dms/image/C5622AQErlQlcPler2g/feedshare-shrink_2048_1536/0/1587628396592?e=2147483647&v=beta&t=6gbzpglnet87uHEUlsH1GBq6TM1FaNsD8xcWeKZmWa0">
 
 <p align="left"> <a href="https://twitter.com/praveenpatel" target="blank"><img src="https://img.shields.io/twitter/follow/praveenpatel?logo=twitter&style=for-the-badge" alt="praveenpatel" /></a> </p>
 
