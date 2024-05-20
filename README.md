@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Praveen Patel</h1>
 <h3 align="center">A Passionate frontend developer </h3>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=ARIAL+BOLD&pause=1000&color=F70707&random=false&width=435&lines=FULL+STACK+DEVELOPER;OPEN+SOURCE+CONTRIBUTOR;FREELANCER)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenp255&label=Profile%20views&color=0e75b6&style=flat" alt="praveenp255" /> </p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
