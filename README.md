@@ -50,4 +50,4 @@ Reach out at [praveenpatel050@gmail.com](mailto:praveenpatel050@gmail.com). I'm 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenp255&show_icons=true&locale=en" alt="praveenp255" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenp255&" alt="praveenp255" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=praveenp255)](https://git.io/streak-stats)
